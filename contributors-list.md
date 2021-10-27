@@ -22,3 +22,7 @@ Hey people, I am Sri Charan from PES Unversity, Bangalore. I would say that I ha
 **Link to profile** : [Pradyuman Kannan](https://github.com/Pradyumankannan) <br />
 **About Me** : <br />
 I am Pradyuman from PES university. I am into computers and programming. I love to play games, watch animes and play football. I am looking forward to working with opensource<br />
+
+**Name** ; Hriday Pradhan <br/>
+**Link to profile** : [hriday_13th](https://github.com/hriday-13th) <br/>
+**About Me** : lol none for u <br/>
